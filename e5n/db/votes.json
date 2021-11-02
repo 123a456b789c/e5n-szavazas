@@ -1,1 +1,205 @@
-{"k1":0,"k2":0,"k3":0,"k4":0,"k5":0,"k6":0,"k7":0,"k8":0,"k9":0,"k10":0,"k11":0,"k12":0,"k13":0,"k14":0,"k15":0,"k16":0,"k17":0,"k18":0,"k19":0,"k20":0,"k21":0,"k22":0,"k23":0,"k24":0,"k25":0,"k26":0,"k27":0,"k28":0,"k29":0}
+{
+    "k1": {
+        "name": "7.A",
+        "score": 0,
+        "id": 1,
+        "voted": [],
+        "terem": false
+    },
+    "k2": {
+        "name": "7.B",
+        "score": 0,
+        "id": 2,
+        "voted": [],
+        "terem": false
+    },
+    "k3": {
+        "name": "8.A",
+        "score": 0,
+        "id": 3,
+        "voted": [],
+        "terem": false
+    },
+    "k4": {
+        "name": "8.B",
+        "score": 0,
+        "id": 4,
+        "voted": [],
+        "terem": false
+    },
+    "k5": {
+        "name": "9.Ny",
+        "score": 0,
+        "id": 5,
+        "voted": [],
+        "terem": false
+    },
+    "k6": {
+        "name": "9.A",
+        "score": 0,
+        "id": 6,
+        "voted": [],
+        "terem": false
+    },
+    "k7": {
+        "name": "9.B",
+        "score": 0,
+        "id": 7,
+        "voted": [],
+        "terem": false
+    },
+    "k8": {
+        "name": "9.C",
+        "score": 0,
+        "id": 8,
+        "voted": [],
+        "terem": false
+    },
+    "k9": {
+        "name": "9.D",
+        "score": 0,
+        "id": 9,
+        "voted": [],
+        "terem": false
+    },
+    "k10": {
+        "name": "9.E",
+        "score": 0,
+        "id": 10,
+        "voted": [],
+        "terem": false
+    },
+    "k11": {
+        "name": "9.F",
+        "score": 0,
+        "id": 11,
+        "voted": [],
+        "terem": false
+    },
+    "k12": {
+        "name": "10.A",
+        "score": 0,
+        "id": 12,
+        "voted": [],
+        "terem": false
+    },
+    "k13": {
+        "name": "10.B",
+        "score": 0,
+        "id": 13,
+        "voted": [],
+        "terem": false
+    },
+    "k14": {
+        "name": "10.C",
+        "score": 0,
+        "id": 14,
+        "voted": [],
+        "terem": false
+    },
+    "k15": {
+        "name": "10.D",
+        "score": 0,
+        "id": 15,
+        "voted": [],
+        "terem": false
+    },
+    "k16": {
+        "name": "10.E",
+        "score": 0,
+        "id": 16,
+        "voted": [],
+        "terem": false
+    },
+    "k17": {
+        "name": "10.F",
+        "score": 0,
+        "id": 17,
+        "voted": [],
+        "terem": false
+    },
+    "k18": {
+        "name": "11.A",
+        "score": 0,
+        "id": 18,
+        "voted": [],
+        "terem": false
+    },
+    "k19": {
+        "name": "11.B",
+        "score": 0,
+        "id": 19,
+        "voted": [],
+        "terem": false
+    },
+    "k20": {
+        "name": "11.C",
+        "score": 0,
+        "id": 20,
+        "voted": [],
+        "terem": false
+    },
+    "k21": {
+        "name": "11.D",
+        "score": 0,
+        "id": 21,
+        "voted": [],
+        "terem": false
+    },
+    "k22": {
+        "name": "11.E",
+        "score": 0,
+        "id": 22,
+        "voted": [],
+        "terem": false
+    },
+    "k23": {
+        "name": "11.F",
+        "score": 0,
+        "id": 23,
+        "voted": [],
+        "terem": false
+    },
+    "k24": {
+        "name": "12.A",
+        "score": 0,
+        "id": 24,
+        "voted": [],
+        "terem": false
+    },
+    "k25": {
+        "name": "12.B",
+        "score": 0,
+        "id": 25,
+        "voted": [],
+        "terem": false
+    },
+    "k26": {
+        "name": "12.C",
+        "score": 0,
+        "id": 26,
+        "voted": [],
+        "terem": false
+    },
+    "k27": {
+        "name": "12.D",
+        "score": 0,
+        "id": 27,
+        "voted": [],
+        "terem": false
+    },
+    "k28": {
+        "name": "12.E",
+        "score": 0,
+        "id": 28,
+        "voted": [],
+        "terem": false
+    },
+    "k29": {
+        "name": "12.F",
+        "score": 0,
+        "id": 29,
+        "voted": [],
+        "terem": false
+    }
+}
